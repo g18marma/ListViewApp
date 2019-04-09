@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
 
         ListView myListView = (ListView)findViewById(R.id.my_listview);
         myListView.setAdapter(adapter);
-        adapter.add("");
+
 
     }
 }
